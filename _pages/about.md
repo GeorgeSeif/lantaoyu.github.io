@@ -10,7 +10,7 @@ redirect_from:
  
 GEORGE SEIF is a Certified Nerd, the biggest one you'll ever find. 
 
-He runs the popular online blog [The Book Club](https://medium.com/@thebookclub56)
+He runs the popular online blog [The Book Club](https://medium.com/@thebookclub56), all about learning form books.
 
 He publishes regularly on all things Tech and AI over at [Medium](https://medium.com/@george.seif94) and [KDNuggets](https://www.kdnuggets.com/?s=George+Seif)
 
