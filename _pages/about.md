@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://GeorgeSeif.github.io/files/360.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://GeorgeSeif.github.io/files/360.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
  
 GEORGE SEIF is a Certified Nerd, the biggest one you'll ever find. He runs the popular online blog [The Book Club](https://medium.com/@thebookclub56), all about learning form books. He publishes regularly on all things Tech and AI over at [Medium](https://medium.com/@george.seif94) and [KDNuggets](https://www.kdnuggets.com/?s=George+Seif). His day job is working in R & D at an Artificial Intelligence company.
