@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-GEORGE SEIF has done some cutting edge research in the field of Artificial Intelligence:
+I've done my fair bit of research in AI, especially Computer Vision:
 
 * Seif, G., Androutsos, D. Large Receptive Field Networks for High-Scale Image Super-Resolution. In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2018.
 
